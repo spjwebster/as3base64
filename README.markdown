@@ -1,5 +1,5 @@
 ﻿as3base64
----------
+=========
 
 The `Base64` class can encode `String` or `ByteArray` objects to Base 64 encoding and vice versa.
 
